@@ -1,7 +1,10 @@
 # Tucil2 IF2211 Strategi Algoritma
 
 # Penyusunan Rencana Kuliah dengan Topological Sort
-Merupakan Tugas Kecil 2 yang dibuat menggunakan bahasa pemrograman python dan algoritma Decrease and Conquer untuk menyelesaikan persoalan Penyusunan Rencana Kuliah
+Merupakan Tugas Kecil 2 yang dibuat menggunakan bahasa pemrograman python dan algoritma Decrease and Conquer untuk menyelesaikan persoalan Penyusunan Rencana Kuliah.
+
+# Algoritma Decrease and Conquer
+Decrease and Conquer merupakan metode perancangan algoritma yang dimulai dengan mereduksi persoalan menjadi 2 upa-persoalan yang lebih kecil. Kemudian hanya memproses satu upa-persoalan saja. Seperti namanya, algoritma decrease and conquer terdiri atas dua tahap. Pertama, Decrease, yaitu mereduksi persoalan menjadi beberapa pesoalan yang lebih kecil. Kedua, Conquer, yaitu memproses satu upa-persoalan secara rekursif. Tidak terdapat tahap combine pada algoritma decrease and conquer.
 
 # Requirement
 Python3
